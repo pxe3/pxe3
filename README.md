@@ -1,7 +1,7 @@
 # Hi, I'm Arya 
 
-💻 I'm a computer science student at the University of Washington with a passion for game development!
-
+💻 I'm a Computer Science student at the University of Washington
+🎮 Aspiring and hobbyist game developer, building dreams every day. Currently a **Gameplay Programmer** for Rainy Bear Studios, a studio created with 4 other students with the goal of building immersive player experiences.
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
