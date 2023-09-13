@@ -5,6 +5,6 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/11153360645](https://open.spotify.com/user/zephaxix?si=c05fbe6c5d6c4641&nd=1)https://open.spotify.com/user/zephaxix?si=c05fbe6c5d6c4641&nd=1)
 
 ---
