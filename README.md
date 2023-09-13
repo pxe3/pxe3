@@ -1,6 +1,6 @@
 # Hi, I'm Arya 
 
-I'm a computer science student at the University of Washington with a passion for game development!
+💻 I'm a computer science student at the University of Washington with a passion for game development!
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
