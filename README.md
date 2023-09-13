@@ -11,7 +11,7 @@
 
 🧙‍♀️ Other professional interests: <b>Machine Learning, Deep Learning, AI, Fullstack</b>
 🐈 Personal interests: Music, Fashion, Skating, Coffee, Reading, CATS!
-☎️ My skills, tech stacks, and contacts can be found bellow!
+☎️ My skills, tech stacks, and contacts can be found below!
 </pre>
 <hr>
 
