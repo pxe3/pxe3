@@ -13,8 +13,7 @@
       ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"><b>LinkedIn</b></a> - feel free to connect with me!
       ♡ My <a href = "https://www.youtube.com/@elixirdevlogs"><b>YouTube</b></a>, where I upload devlogs of my projects.
       ♡ My <a href = "https://twitter.com/elixirdevlogs"><b>Twitter</b></a>, where I tweet my thoughts on everything and anything.
-      
-      
+🧙‍♀️ My skills and tech stacks? You can find them organized below. 
 </pre>
 <hr>
 
