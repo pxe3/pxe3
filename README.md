@@ -9,10 +9,11 @@
       ♡ Hobby game developer and devlogger (check socials section at the bottom!)
       ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
 ☎️ As a student, I'm looking for <b>internships and opportunities for experience</b> - my links are below. 
+      ♡ My <a href="mailto:aryaprakash@gmail.com"><b>Email</b></a> - my most direct line of contact.
       ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"><b>LinkedIn</b></a> - feel free to connect with me!
       ♡ My <a href = "https://www.youtube.com/@elixirdevlogs"><b>YouTube</b></a>, where I upload devlogs of my projects.
       ♡ My <a href = "https://twitter.com/elixirdevlogs"><b>Twitter</b></a>, where I tweet my thoughts on everything and anything.
-      ♡ My <a href="mailto:aryaprakash@gmail.com"><b>Email</b></a> - a direct line of contact.
+      
       
 </pre>
 <hr>
