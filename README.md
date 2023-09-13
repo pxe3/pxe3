@@ -11,8 +11,6 @@
 
 🧙‍♀️ Other professional interests: <b>Machine Learning, Deep Learning, AI, Fullstack</b>
 🐈 Personal interests: Music, Fashion, Skating, Coffee, Reading, CATS!
-
-♡ <h>CONTACT</h> ♡ 
 ☎️ As a student, I'm looking for <b>internships and opportunities for experience</b> - my links are below. 
       ♡ My <a href="mailto:aryaprakash@gmail.com"><b>Email</b></a> - my most direct line of contact.
       ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"><b>LinkedIn</b></a> - feel free to connect with me!
