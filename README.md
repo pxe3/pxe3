@@ -43,7 +43,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### What am I listening to now? 🎼
+## Fun little widgets..
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zephaxix&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/zephaxix?si=c05fbe6c5d6c4641&nd=1)
 
