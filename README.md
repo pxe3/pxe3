@@ -22,6 +22,7 @@
 	<a href="https://github.com/pxe3"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.youtube.com/@elixirdevlogs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 	<a href="https://twitter.com/elixirdevlogs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="https://elixirdev.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"/></a>
 </p>
 
 ### What am I listening to now? 🎼
