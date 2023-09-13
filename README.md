@@ -4,6 +4,8 @@
 💻 I'm a Computer Science student at the University of Washington
 🎮 Aspiring and hobbyist game developer, building dreams every day.
 🔮 <b>Gameplay Programmer</b> for a student-made studio called <b>Rainy Bear Studios</b>
+  -
+  -
 </pre>
 <hr>
 ---
