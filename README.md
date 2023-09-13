@@ -7,8 +7,8 @@
 🔮 <b>Why Games?</b> My love for games has <b>always</b> been a huge part of my life! Over time, that love has evolved..
       ♡ Professional Overwatch Esports Coach for <b>3 years</b> - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
       ♡ Hobby game developer and devlogger (check socials section at the bottom!)
-
       ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
+
 🧙‍♀️ Other professional interests: <b>Machine Learning, Deep Learning, AI, Fullstack</b>
 🐈 Personal interests: Music, Fashion, Skating, Coffee, Reading, CATS!
 
