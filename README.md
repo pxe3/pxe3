@@ -8,7 +8,7 @@
       ♡ Professional Overwatch Esports Coach for <b>3 years</b> - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
       ♡ Hobby game developer and devlogger (check socials section at the bottom!)
       ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
-☎️ As a student, I'm always looking for <b>internships and opportunities for experience.</b> 
+☎️ As a student, I'm always looking for <b>internships and opportunities for experience.</b> Feel free to contact me. 
 </pre>
 <hr>
 
