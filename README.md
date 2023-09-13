@@ -9,7 +9,7 @@
       ♡ Hobby game developer and devlogger (check socials section at the bottom!)
       ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
 ☎️ As a student, I'm looking for <b>internships and opportunities for experience.</b> - feel free to contact me. 
-      ♡ <a href ="https://www.linkedin.com/in/aryaprakash03/"> <b>LinkedIn</b> </a>
+      ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"> <b>LinkedIn</b> </a>
       
 </pre>
 <hr>
