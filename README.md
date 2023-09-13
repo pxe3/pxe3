@@ -12,7 +12,7 @@
       ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"><b>LinkedIn</b></a> - feel free to connect with me!
       ♡ My <a href = "https://www.youtube.com/@elixirdevlogs"><b>YouTube</b></a>, where I upload devlogs of my projects.
       ♡ My <a href = "https://twitter.com/elixirdevlogs"><b>Twitter</b></a>, where I tweet my thoughts on everything and anything.
-      ♡ Want to contact me directly? Here's my <a href="mailto:aryaprakash@gmail.com">Email</a>.
+      ♡ Want to contact me directly? Here's my <a href="mailto:aryaprakash@gmail.com"><b>Email</b> - aryaprakash@gmail.com</a>.
       
 </pre>
 <hr>
