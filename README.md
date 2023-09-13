@@ -21,6 +21,7 @@
 	<a href="https://www.linkedin.com/in/aryaprakash03/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/pxe3"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       <a href="https://www.youtube.com/@elixirdevlogs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+	<a href="https://twitter.com/elixirdevlogs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ### What am I listening to now? 🎼
