@@ -3,7 +3,7 @@
 <pre>
 💻 I'm a Computer Science student at the University of Washington
 🎮 Aspiring and hobbyist game developer, building dreams every day.
-🔮 Currently a <b>Gameplay Programmer</b> for Rainy Bear Studios a studio created with 4 other students with the goal of building immersive player experiences.
+🔮 <b>Gameplay Programmer</b> for a student-made studio called <b>Rainy Bear Studios</b>
 </pre>
 <hr>
 ---
