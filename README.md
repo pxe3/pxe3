@@ -5,7 +5,7 @@
 🎮 Aspiring and hobbyist game developer, building immersive experiences every day.
 🧸 <b>Gameplay Programmer</b> for a <b>student-made</b> studio called <b>Rainy Bear Studios</b>
 🔮 <b>Why Games?</b> Since I was little, my love for games has been a huge part of my life! Over time, that love has evolved..
-      - Professional Overwatch Esports Coach - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
+      ☆Professional Overwatch Esports Coach - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
 
 </pre>
 <hr>
