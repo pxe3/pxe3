@@ -8,9 +8,10 @@
       ♡ Professional Overwatch Esports Coach for <b>3 years</b> - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
       ♡ Hobby game developer and devlogger (check socials section at the bottom!)
       ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
-☎️ As a student, I'm looking for <b>internships and opportunities for experience</b> - my contacts are below. 
+☎️ As a student, I'm looking for <b>internships and opportunities for experience</b> - my links are below. 
       ♡ My <a href ="https://www.linkedin.com/in/aryaprakash03/"><b>LinkedIn</b></a> - feel free to connect with me!
       ♡ My <a href = "https://www.youtube.com/@elixirdevlogs"><b>YouTube</b></a>, where I upload devlogs of my projects.
+      ♡ My <a href = "https://twitter.com/elixirdevlogs"><b>X/Twitter</b></a>
       
 </pre>
 <hr>
