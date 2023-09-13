@@ -15,7 +15,7 @@
 </pre>
 <hr>
 
-<img align="center" alt="GIF" height="170px" src="" />
+
 
 ### What am I listening to now? 🎼
 
