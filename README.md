@@ -1,8 +1,10 @@
 # Hi, I'm Arya 
-
+<hr>
+<pre>
 💻 I'm a Computer Science student at the University of Washington
 🎮 Aspiring and hobbyist game developer, building dreams every day. Currently a **Gameplay Programmer** for Rainy Bear Studios, a studio created with 4 other students with the goal of building immersive player experiences.
-
+</pre>
+<hr>
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
