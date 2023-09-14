@@ -1,4 +1,4 @@
-# Hi, I'm Arya (they/she)!
+# Hi, I'm Arya (they/she) - an aspiring game developer!
 <hr>
 <pre>
 💻 I'm a Computer Science student at the University of Washington
