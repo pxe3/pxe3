@@ -1,8 +1,9 @@
-# Hi, I'm Arya (they/she) - an aspiring game developer!
+# Hi, I'm Arya (they/she) - a student and developer!
 <hr>
 <pre>
 💻 I'm a Computer Science student at the University of Washington
-🎮 Aspiring and hobbyist game developer, building immersive experiences every day.
+🕊️ Interested in machine learning, game dev, low-level programming, and back-end work.
+🎮 SWE Intern @ Netflix | Consumer Connect and Authenticate Team
 🧸 <b>Gameplay Programmer</b> for a <b>student-made</b> studio called <b>Rainy Bear Studios</b>
 🔮 <b>Why Games?</b> My love for games has <b>always</b> been a huge part of my life! Over time, that love has evolved..
       ♡ Professional <b>Overwatch Esports Coach</b> for <b>3 years</b> - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
