@@ -2,16 +2,10 @@
 <hr>
 <pre>
 💻 I'm a Computer Science student at the University of Washington
-🕊️ Interested in machine learning, game dev, low-level programming, and back-end work
+🕊️ <b>Machine Learning Researcher @ University of Washington</b>
 🎮 <b>SWE Intern @ Netflix | Consumer Connect and Authenticate Team</b>
 🧸 <b>Gameplay Programmer</b> for a <b>student-made</b> studio called <b>Rainy Bear Studios</b>
-🔮 <b>Why Games?</b> My love for games has <b>always</b> been a huge part of my life! Over time, that love has evolved..
-      ♡ Professional <b>Overwatch Esports Coach</b> for <b>3 years</b> - <a href= "https://liquipedia.net/overwatch/Overworld">Liquipedia</a>
-      ♡ Hobby game developer and devlogger (check socials section at the bottom!)
-      ♡ <b>Gameplay Programmer</b> and <b>Systems Designer</b> for Rainy Bear Studios
-
 🧙‍♀️ Other professional interests: <b>Machine Learning, Deep Learning, AI, Fullstack</b>
-🐈 Personal interests: Music, Fashion, Skating, Coffee, Reading, CATS!
 ☎️ My skills, tech stacks, and contacts can be found below!
 </pre>
 <hr>
